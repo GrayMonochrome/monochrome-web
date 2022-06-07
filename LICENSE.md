@@ -1,6 +1,6 @@
 # Misilelab license v1.6
 
-Author information : Base repository by MisileLaboratory
+Author information : Monochrome by Misile
 
 ## derivative works condition
 
